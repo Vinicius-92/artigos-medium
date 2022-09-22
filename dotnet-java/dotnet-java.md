@@ -27,15 +27,15 @@ Já no .NET o que temos como padrão de mercado seria o Visual Studio, tendo tam
 
 Como citado no início do texto, comecei o desenvolvimento no ambiente que me era comum com Linux e VSCode, sendo assim ouve um nível um pouco maior de busca de soluções que são simplificadas com o uso de IDEs, como buscar e adicionar pacotes ao projeto, conexão com banco de dados e outras ferramentas que não vem por padrão no editor de texto, porém isso não chega a ser impeditivo e acaba agregando em conhecimento e aprendizado de como pesquisar e buscar soluções. Tendo dito isso, recomendo pra quem quiser um caminho mais simples ir diretamente para o Visual Studio na versão grátis, que poderá facilitar esse primeiro momento.
 
-Hoje utilizo o Rider e por conta da proximidade com as ferramentas da JetBrains me tornou muito mais produtivo e retirou esses pequenos pontos de falta de ferramentas incluídas no pacote, mas para edições rápidas e alguns projetos paralelos e leveza do VSCode ainda me atrai.
+Hoje utilizo o Rider e por conta da proximidade com as ferramentas da JetBrains me tornou muito mais produtivo e retirou esses pequenos pontos de falta de ferramentas incluídas no pacote, mas para edições rápidas e alguns projetos paralelos a leveza do VSCode ainda me atrai.
 
 Na escolha de qualquer uma dessas opções, a utilização será bastante tranquila, as ferramentas de refatoração e autocomplete irão auxiliar em muito na construção dos projetos de estudo.
 
 ### Conteúdo técnico disponível
 
-Chegando nesse ponto é onde começamos a ter um maior nível de disparidade entre as duas plataformas, por conta do tempo maior em que Java possui comunidades abertas e quantidade maior em projetos ao redor do mundo, o conteúdo técnico produzido para linguagem, soluções de problemas e dúvidas e conteúdos úteis em geral serão mais fáceis de serem encontrados. Acredito que seja incrivelmente improvável não encontrar soluções para problemas que você encontra durante o desenvolvimento.
+Chegando nesse ponto é onde começamos a ter um maior nível de disparidade entre as duas plataformas, por conta do tempo maior em que Java possui comunidades abertas e quantidade maior em projetos ao redor do mundo, o conteúdo técnico produzido para linguagem, soluções de problemas e dúvidas, e conteúdos úteis em geral serão mais fáceis de serem encontrados. Acredito que seja incrivelmente improvável não encontrar soluções para problemas que você encontra durante o desenvolvimento.
 
-Já a comunidade .NET open source é bem mais recente e por conta da quantidade menor de projetos em desenvolvimento e no ar, principalmente da versão multiplataforma, é possível se encontrar com problemas não encontrados por outros e ainda não desbravados, ou também que somente com a documentação oficial pessoas iniciantes não tenham a facilidade de solucionar sozinhas.
+Já a comunidade .NET open source é bem mais recente e por conta da quantidade menor de projetos em desenvolvimento e no ar, principalmente da versão multiplataforma, é possível se deparar com problemas não encontrados por outros e ainda não desbravados, ou também que somente com a documentação oficial pessoas iniciantes não tenham a facilidade de solucionar sozinhas.
 
 Falando em documentação ambas possuem documentações oficiais vastas e completas, entretanto nesse quesito acredito que a Microsoft saia na frente com documentações de simples entendimento, em sua grande maioria disponíveis também em Português, eles também produzem artigos, vídeos, tutoriais e muitos mais materiais oficiais com qualidade e acessíveis para todos os níveis de conhecimento.
 
