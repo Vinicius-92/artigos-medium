@@ -10,9 +10,7 @@ Agora vou abordar por tópicos as comparações que acredito fazerem sentido par
 
 Quando analisamos a história de como surgiu o C#, independente de julgamentos, vemos que a linguagem surgiu como uma necessidade da Microsoft de ter sua própria "versão" do Java, que por conta de disputas relacionadas à licenciamentos não era possível, com isso temos duas linguagens que no seu início tinham o mesmo DNA, herdando estruturas e palavras muito similares, qualquer pessoa que conheça Java consegue ler um código C# e identificar diversos padrões, chegando até mesmo a entender e modificar sem muitos problemas.
 
-============================
-Trazer imagem lado a lado exemplificando o citado acima de proximidade
-============================
+![Screenshot](https://raw.githubusercontent.com/Vinicius-92/artigos-medium/main/dotnet-java/fib.jpg)
 
 No meu primeiro contato com C# eu refiz alguns exercícios de lógica que me foram propostos no meu estágio, em questão de horas foi possível traduzir de uma linguagem para outra, apenas fazendo pesquisas pontuais quando a forma de implementar interfaces, definir encapsulamento dos atributos ou até o nome de algumas estruturas como Listas e Dicionários.
 Devo confessar porém que olhando pra esse código hoje em dia ele não se parece com C# nos seus padrões mais comuns, era uma versão muito "Javaficada", porém rodava e atendia os requisitos de lógica e naquele momento era o que importava.
@@ -44,9 +42,7 @@ Falando em documentação ambas possuem documentações oficiais vastas e comple
 Quanto se trata do ecossistema como um todo de cada plataforma, ambos são extremamente maduros e continuam evoluindo desde suas criações, hoje em dia acredito que nessa parte o .NET tem tido mais sucesso em evoluir mais rapidamente como um todo e trazer features interessantes para a linguagem, porém o Java tem cada vez mais se modernizando e são linguagens extremamente diferentes de quando começaram e que apesar de terem saído do mesmo ponto, hoje se diferem mais em escolhas de como resolver problemas. Temos o exemplo das Collections Streams em Java para o LINQ em C#, que são formas de lidar com coleções de diferentes tipos de dados e estruturas de listas, no Java essa melhoria veio com a versão 8 em 2014, enquanto o LINQ já faz parte do .NET desde 2007.
 Apesar das diferenças em sintaxe, entendendo o conceito lógico de uma a outra se torna extremamente simples de implementar, eu não compreendia completamente o conceito de streams em Java, porém após aprender a realizar as operações com LINQ ao retornar ao Java consegui utilizar os streams de forma muito fluída.
 
-============================
-Trazer imagem lado a lado exemplificando o citado acima de collections/linq
-============================
+![Screenshot](https://raw.githubusercontent.com/Vinicius-92/artigos-medium/main/dotnet-java/linq.jpg)
 
 ### Conclusão
 
