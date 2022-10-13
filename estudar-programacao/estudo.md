@@ -1,6 +1,6 @@
 # Como começar a estudar programação
 
-![](https://github.com/Vinicius-92/artigos-medium/estudos-programacao/image.jpg)
+![](https://github.com/Vinicius-92/artigos-medium/blob/main/estudar-programacao/image.jpg)
 
 Esse título pode parecer click bait, porém era o que eu pesquisava quando comecei a vontade de realizar a transição para área de desenvolvimento, então espero que possa ajudar quem se encontra nesse mesmo momento. Ao longo do texto vou expôr diversas opiniões sobre o que seria uma das formas de por onde começar e o que eu recomendo de linguagem, cursos, podcasts e outros recursos de aprendizado. Foi o que funcionou pra mim e com certeza não é o único caminho, é bastante opinativo e não julga estar 100% certo.
 Terminando esse disclaimer vamos começar da base de tudo a lógica de programação.
