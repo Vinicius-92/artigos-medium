@@ -53,4 +53,5 @@ O que isso teria a ver com programação? Em primeiro momento talvez nada, poré
 
 ### Alguns meses depois...
 
-A partir daqui acredito que você já terá bagagem o suficiente para ir atrás de conteúdos que sejam relevantes pra você e ouvido referências de pessoas muito mais capazes que eu nos conteúdos compartilhados. Espero que isso possa te dar um norte se está perdido e estou disponível para bater papo com quem tenha interesse em saber mais.
+A partir daqui acredito que você já terá bagagem o suficiente para ir atrás de conteúdos que sejam relevantes pra você e ouvido referências de pessoas muito mais capazes que eu nos conteúdos compartilhados, vai ter conhecido também as outras áreas dentro de TI que podem te cativar como front-end, mobile, qualidade, agilidade e tantos outros que você pode avançar a partir daí.
+Espero que isso possa te dar um norte se está perdido e estou disponível para bater papo com quem tenha interesse em saber mais.
