@@ -2,8 +2,8 @@
 
 ![](https://github.com/Vinicius-92/artigos-medium/blob/main/estudar-programacao/image.jpg)
 
-Esse título pode parecer click bait, porém era o que eu pesquisava quando comecei a vontade de realizar a transição para área de desenvolvimento, então espero que possa ajudar quem se encontra nesse mesmo momento. Cada vez mais vemos matérias, notícias e propagandas sobre como programação é uma excelente área para trabalhar, sobre a falta de profissionais e alta dos salários, por mais que, muitos desses assuntos estejam sendo tratados de forma superficial, isso é sim uma realidade possível para muitas pessoas mudarem a própria vida e a dos próximos a eles, com isso já tive pessoas me perguntando a respeito e pedindo dicas de como começar, ao longo do texto vou expôr diversas opiniões sobre o que seria uma das formas de por onde começar e o que eu recomendo de linguagem, cursos, podcasts e outros recursos de aprendizado. Foi o que funcionou pra mim e com certeza não é o único caminho, é bastante opinativo e não julga estar 100% certo.
-Terminando esse disclaimer vamos começar da base de tudo a lógica de programação.
+Esse título pode parecer click bait, porém era o que eu pesquisava quando comecei a realizar a transição para área de desenvolvimento, então espero que possa ajudar quem se encontra nesse mesmo momento. Cada vez mais vemos matérias, notícias e propagandas sobre como programação é uma excelente área para trabalhar, sobre a falta de profissionais e alta dos salários, por mais que, muitos desses assuntos estejam sendo tratados de forma superficial, isso é sim uma realidade possível para muitas pessoas mudarem a própria vida e a dos próximos a eles, com isso já tive pessoas me perguntando a respeito e pedindo dicas de como começar, ao longo do texto vou expôr diversas opiniões sobre o que seria uma das formas de por onde começar e o que eu recomendo de linguagem, cursos, podcasts e outros recursos de aprendizado. Foi o que funcionou pra mim e com certeza não é o único caminho, é bastante opinativo e não julgo estar 100% certo.
+Terminando esse disclaimer vamos começar da base de tudo: a lógica de programação.
 
 ### Lógica de programação
 
@@ -24,7 +24,7 @@ https://www.udemy.com/course/java-curso-completo/
 
 ### Banco de dados
 
-Outra parte fundamental dos conhecimentos necessários para ser um desenvolvedor e lidar com dados, mais especificamente bancos de dados que irão armazenar o que produzimos e consumimos em nossas aplicações. Existem alguns tipos de bancos de dado, porém o primeiro e mais usado que devemos aprender é o que tem o nome de banco de dados relacional, ou SQL que também é o nome a linguagem que utilizamos para interagir com ele.
+Outra parte fundamental dos conhecimentos necessários para ser um desenvolvedor é lidar com dados, mais especificamente bancos de dados que irão armazenar o que produzimos e consumimos em nossas aplicações. Existem alguns tipos de bancos de dados, porém o primeiro e mais usado que devemos aprender é o que tem o nome de banco de dados relacional, ou SQL que também é o nome da linguagem que utilizamos para interagir com ele.
 Um excelente início pode ser estudado com o MySQL que é uma das implementações de bancos mais utilizados no mundo.
 Como nos outros segmentos vou deixar aqui uma dica de curso para aprender mais sobre isso, esse também está disponível gratuitamente no Youtube.
 
@@ -43,7 +43,7 @@ https://open.spotify.com/playlist/4tsOfDiZkSD25lI3xeROeP?si=4add668de6f64f32
 ### Faculdade, fazer ou não fazer?
 
 Aqui é um tema que quem já pesquisou um pouco sobre TI já se deparou com alguma discussão, a necessidade ou não de fazer uma faculdade e existem excelentes argumentos para ambos os lados, eu não vou aqui definir o que é certo ou não, mas, como no restante vou dar uma opinião que é, faça. Mesmo que seja uma EAD bem fraquinha, mesmo que você saia do curso sem ter aprendido coisas relevantes para o trabalho, vai te favorecer e dar chances de entrar no mercado como estagiário, o que quebra uma grande barreira em detrimento a tentar entrar diretamente como Júnior sem ter experiência, o degrau é muito maior.
-Existem diversas faculdades EAD que você consegue cursas com valores relativamente baixos, na casa dos R$150 por exemplo, onde a demanda por atividades não é grande e é excelente para conciliar com trabalho, casa e estudos, sem contar que dá a carteirinha pra entrar mais barato no cinema.
+Existem diversas faculdades EAD que você consegue cursas com valores relativamente baixos, na casa dos R$150 por exemplo, onde a demanda por atividades não é grande e é excelente para conciliar com trabalho, casa e estudos, sem contar a carteirinha pra entrar mais barato no cinema.
 Alguns cursos que você pode pesquisar para ver o que pode ser mais adequado para você e seu bolso são:
 * Análise e Desenvolvimento de Sistemas
 * Sistemas para Internet
@@ -52,7 +52,7 @@ Alguns cursos que você pode pesquisar para ver o que pode ser mais adequado par
 
 ### Devo aprender inglês?
 
-O que isso teria a ver com programação? Em primeiro momento talvez nada, porém dedicar tempo dos seus estudos a aprender a entender inglês vai ser excelente pra sua carreira, mesmo quem não pensar em trabalhar fora ou pra fora pra receber o famigerado salário em dólar, documentações saem primeiro em inglês, artigos, conteúdos técnicos e muito mais, sem contar que o acervo de respostas do Stackoverflow é muito maior se considerarmos conteúdos na língua inglesa. Buscar essas fontes desde o início, mesmo que com auxílio de ferramentas pra tradução, pra ir se adaptando vai te dar uma grande vantagem no futuro.
+O que isso teria a ver com programação? Em primeiro momento talvez nada, porém dedicar tempo dos seus estudos a aprender e entender inglês vai ser excelente pra sua carreira, mesmo quem não pensar em trabalhar fora ou para fora e com isso receber o famigerado salário em dólar, documentações saem primeiro em inglês, artigos, conteúdos técnicos e muito mais, sem contar que o acervo de respostas do Stackoverflow é muito maior se considerarmos conteúdos na língua inglesa. Buscar essas fontes desde o início, mesmo que com auxílio de ferramentas pra tradução, pra ir se adaptando vai te dar uma grande vantagem no futuro.
 
 ### Alguns meses depois...
 
