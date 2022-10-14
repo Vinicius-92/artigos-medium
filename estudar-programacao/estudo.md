@@ -2,7 +2,7 @@
 
 ![](https://github.com/Vinicius-92/artigos-medium/blob/main/estudar-programacao/image.jpg)
 
-Esse título pode parecer click bait, porém era o que eu pesquisava quando comecei a vontade de realizar a transição para área de desenvolvimento, então espero que possa ajudar quem se encontra nesse mesmo momento. Ao longo do texto vou expôr diversas opiniões sobre o que seria uma das formas de por onde começar e o que eu recomendo de linguagem, cursos, podcasts e outros recursos de aprendizado. Foi o que funcionou pra mim e com certeza não é o único caminho, é bastante opinativo e não julga estar 100% certo.
+Esse título pode parecer click bait, porém era o que eu pesquisava quando comecei a vontade de realizar a transição para área de desenvolvimento, então espero que possa ajudar quem se encontra nesse mesmo momento. Cada vez mais vemos matérias, notícias e propagandas sobre como programação é uma excelente área para trabalhar, sobre a falta de profissionais e alta dos salários, por mais que, muitos desses assuntos estejam sendo tratados de forma superficial, isso é sim uma realidade possível para muitas pessoas mudarem a própria vida e a dos próximos a eles, com isso já tive pessoas me perguntando a respeito e pedindo dicas de como começar, ao longo do texto vou expôr diversas opiniões sobre o que seria uma das formas de por onde começar e o que eu recomendo de linguagem, cursos, podcasts e outros recursos de aprendizado. Foi o que funcionou pra mim e com certeza não é o único caminho, é bastante opinativo e não julga estar 100% certo.
 Terminando esse disclaimer vamos começar da base de tudo a lógica de programação.
 
 ### Lógica de programação
@@ -34,9 +34,11 @@ https://www.youtube.com/watch?v=lHYV_H1526Q&list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4Vg
 
 Caso tenha percorrido esse caminho, é possível que você já tenha tido uma experiência criando alguns programas simples e não tão simples também. Caso parte do que você viu ainda não seja tão claro pra você, está tudo bem, é impossível aprender tudo isso de primeira. Confesso que mesmo com a didática incrível do Nélio tem coisas que eu só realmente entendi quando já estava no mercado de trabalho, meses depois de terminar o curso. 
 O que me deixa na minha próxima sugestão, se exponha ao máximo de conteúdo possível que conseguir sobre tecnologia, seja por vídeos no Youtube, Podcasts, Newsletters, Twitter, Discord para os jovens ou o que mais aparecer, estar submerso em tudo isso vai te fazer ter contato com termos, conceitos e tecnologias que farão parte da sua jornada, mesmo que, novamente, não entendamos tudo de primeira, começar a se familiarizar com tudo fará com que quando se dedicar a aprender ou surgir novamente você não estará totalmente perdido.
-Montei uma playlist no Spotify sobre temas que considero legais de serem ouvidos passeando com o cachorro, lavando louça, na academia ou qualquer outro momento que não precisar usar tanto a cabeça.
+Montei uma playlist no Spotify sobre temas que considero legais de serem ouvidos passeando com o cachorro, lavando louça, na academia ou qualquer outro momento que não precisar usar tanto a cabeça, tem mais de 50 horas de conteúdo para aproveitar.
 
-{link da playlist}
+https://open.spotify.com/playlist/4tsOfDiZkSD25lI3xeROeP?si=4add668de6f64f32
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4tsOfDiZkSD25lI3xeROeP?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Faculdade, fazer ou não fazer?
 
@@ -47,6 +49,7 @@ Alguns cursos que você pode pesquisar para ver o que pode ser mais adequado par
 * Sistemas para Internet
 * Gestão de TI
 * Sistemas de Informação
+
 ### Devo aprender inglês?
 
 O que isso teria a ver com programação? Em primeiro momento talvez nada, porém dedicar tempo dos seus estudos a aprender a entender inglês vai ser excelente pra sua carreira, mesmo quem não pensar em trabalhar fora ou pra fora pra receber o famigerado salário em dólar, documentações saem primeiro em inglês, artigos, conteúdos técnicos e muito mais, sem contar que o acervo de respostas do Stackoverflow é muito maior se considerarmos conteúdos na língua inglesa. Buscar essas fontes desde o início, mesmo que com auxílio de ferramentas pra tradução, pra ir se adaptando vai te dar uma grande vantagem no futuro.
